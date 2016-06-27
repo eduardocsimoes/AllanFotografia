@@ -13,7 +13,7 @@ require('./_app/Config.inc.php');
         <?php
             require(REQUIRE_PATH . '/inc/header.inc.php');
         ?>
-
+        <p>teste de github</p>
         <div>
         <? echo INCLUDE_PATH; ?><br />
         <? echo REQUIRE_PATH; ?><br />
